@@ -3891,4 +3891,8 @@ exports.Tooltip = Tooltip;
 Object.defineProperty(exports, '__esModule', { value: true });
 
 })));
+
+ function redirectToProducts() {
+      window.location.href = "products.html";
+    }
 //# sourceMappingURL=bootstrap.js.map
